@@ -1,7 +1,7 @@
 <h1 align="center">
 
 <br>
-Proffy_Mobile
+InstaClone
 </h1>
 
 <p align="center">Clone of instagram with animation and images with blur on pre load </p>
@@ -14,7 +14,8 @@ Proffy_Mobile
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://github.com/David-Ackerman/NLW-Proffy-Mobile/blob/master/ProffyMobile/proffy-mobileGif.gif" alt="demo" height="600">
+  <img src="https://github.com/David-Ackerman/InstaClone/blob/master/ApplicationImages/InstaCloneGif.gif" alt="demo" height="600">
+  <img src="https://github.com/David-Ackerman/InstaClone/blob/master/ApplicationImages/Initial.PNG" alt="demo" height="600">
 </div>
 
 <hr />
